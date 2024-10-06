@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">application de carte de visite</string>
+    <string name="nom">Belqacem Ritej </string>
+    <string name="fonction">Etudiante en DSI</string>
+    <string name="tel_label">phone</string>
+    <string name="tel">+216 27 055 723 </string>
+    <string name="web_label">website</string>
+    <string name="web">AndroidDev </string>
+    <string name="email_label">email</string>
+    <string name="email">ritejbelqacem111@gmail.com</string>
+</resources>
